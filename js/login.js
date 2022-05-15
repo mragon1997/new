@@ -12,7 +12,7 @@ $('#login-button').click(function (event) {
 			},2000);
 		}
 	else{
-		alert("小笨蛋,这都能输错?");
+		alert("大哥,这都能输错?");
 	}
 });
 
